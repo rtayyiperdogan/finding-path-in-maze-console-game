@@ -1,0 +1,9 @@
+This is a simple console Maze Game,
+According to given information program will create maze and players will play game.
+
+
+Note1: var.cfg file is includes some informations about Matrices(MAZE) information, Player or Players number also Obstacle numbers.
+(Program always will according to var.cfg file.)
+Note2: 01, 02, 03 etc.. these are obstacles.
+Note3: FI : Final point.(Player will try to reach this point.)
+NOTE4: 00 points are free points for moving.

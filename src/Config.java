@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author RECEP TAYYIP ERDOGAN
- * @serial 17.11.2020
+ * @since 17.11.2020
  */
 public class Config {
     private int height;
