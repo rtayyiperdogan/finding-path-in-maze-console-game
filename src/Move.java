@@ -6,7 +6,6 @@ import java.util.Scanner;
 /**
  *
  * @author RECEP TAYYIP ERDOGAN
- * @since 17.11.2020
  */
 public class Move extends Map {
 
